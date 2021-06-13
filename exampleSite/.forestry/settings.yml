@@ -29,11 +29,11 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
-public_path: "/images"
+upload_dir: exampleSite/static/media
+public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":filename::year::month::day:"
 build:
   preview_env:
   - HUGO_ENV=staging
