@@ -3,7 +3,7 @@ banner:
   enable: true
   title: SPORT AND SPINAL
   content: Having Sport with spinal care
-  image: images/hero-image/hero-slider-01.jpg
+  image: images/sportspinal-desktop.mp4
   button:
     enable: true
     label: WHAT WE DO
