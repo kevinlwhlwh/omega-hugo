@@ -3,7 +3,7 @@ banner:
   enable: true
   title: SPORT AND SPINAL
   content: Having Sport with spinal care
-  image: images/sportspinal-desktop.mp4
+  image: https://a.uguu.se/CBBHCCDp.mp4
   button:
     enable: true
     label: WHAT WE DO
